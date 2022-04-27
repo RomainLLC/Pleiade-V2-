@@ -12,14 +12,16 @@ https://user-images.githubusercontent.com/33468314/165633889-e72425dd-2233-4d31-
 ## Fonctionnalités
 
 * Single sign-on
+* Compatible avec Apereo CAS, Keycloack, LemonLDAP
 * Multi-collectivités (5 départements)
 * Interfaçage avec annuaire LDAP
-* Mappage droits/rôles Drupal
+* Mappage droits/rôles métiers
 * API custom pour connexion aux outils tiers : Libriciel (Pastell, iParapheur...), GED, Zimbra
 * Interface d'administration des collectivités, agents, élus
 * Partage de fichiers (lufi)
 * Visio (Cisco/Webex)
 * GED Alfresco
+
 
 ## Informations
 
